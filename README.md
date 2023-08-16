@@ -21,3 +21,5 @@
 5) scipy
 
 Запустите приложение с помощью команды streamlit run app.py и откройте веб-браузер, чтобы использовать приложение.
+Для теста использовался данный датасет. 
+https://drive.google.com/file/d/1w_1iYP9UKLQdNXv2gsitimjWWTNtxekI/view?usp=sharing
